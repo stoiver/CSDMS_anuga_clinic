@@ -1,0 +1,4 @@
+*.xlsx
+*.key
+workspace/.*
+videos/*
