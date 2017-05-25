@@ -2,3 +2,5 @@
 *.key
 workspace/.*
 videos/*
+*.sww
+anuga.log
